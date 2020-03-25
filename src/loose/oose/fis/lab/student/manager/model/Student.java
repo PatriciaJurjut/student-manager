@@ -1,6 +1,5 @@
 package loose.oose.fis.lab.student.manager.model;
 
-<<<<<<< HEAD
 import java.util.Objects;
 
 
